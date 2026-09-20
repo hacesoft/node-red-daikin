@@ -6,6 +6,8 @@ A monitoring module that reads Daikin climate units through the public **ONECTA 
 
 The module retrieves all units available to one ONECTA account, displays them in Dashboard 2.0, manages OAuth tokens, and prepares a restricted snapshot for LINEA's read-only API. The supplied flow **does not control the units**: it sends no command to switch them on, change their operating mode, or adjust the temperature.
 
+<img width="411" height="363" alt="image" src="https://github.com/user-attachments/assets/4cc1602b-d676-455a-bf89-f708542664d0" />
+
 ## Contents
 
 - [Displayed data](#displayed-data)

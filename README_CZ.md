@@ -6,6 +6,8 @@ Monitorovací modul pro čtení klimatizačních jednotek Daikin z veřejného *
 
 Modul načítá všechny jednotky dostupné pod jedním účtem ONECTA, zobrazuje je v Dashboardu 2.0, spravuje OAuth tokeny a připravuje omezený snapshot pro read-only API LINEA. Dodaný flow **klimatizaci neovládá**: neposílá příkazy pro zapnutí, změnu režimu ani teploty.
 
+<img width="411" height="363" alt="image" src="https://github.com/user-attachments/assets/4cc1602b-d676-455a-bf89-f708542664d0" />
+
 ## Obsah
 
 - [Co modul zobrazuje](#co-modul-zobrazuje)
