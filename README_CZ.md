@@ -1,4 +1,4 @@
-[🇨🇿 **Česky**](README_CZ.md) | [🇬🇧 English](README.md)
+[🇨🇿 **Česky**](README_CZ.md) | [🇬🇧 English](README.md) | [Linea project](https://github.com/hacesoft/Linea)
 
 # Daikin ONECTA modul pro Node-RED
 
